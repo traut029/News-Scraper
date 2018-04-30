@@ -1,0 +1,15 @@
+a {
+    color:black;
+}
+.note-input{
+min-width: 100%
+}
+textarea{
+    min-width:100%;
+    margin-top:20px;
+}
+.delete{
+   max-width:20%;
+   float:right;
+   margin:0 auto 0 auto;
+}
